@@ -1,4 +1,4 @@
-REMARK  Name = /content/drive/MyDrive/Parkinson/fibril_CDE_fixed.pdb
+REMARK  Name = 
 REMARK  1079 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
 REMARK    1  A    between atoms: N_1  and  CA_2
@@ -1762,7 +1762,7 @@ ATOM    677  CB  THR A  41     161.819 144.387 142.261  0.00  0.00    +0.000 C
 ATOM    678  CG2 THR A  41     163.141 144.020 142.905  0.00  0.00    +0.000 C 
 ATOM    679  OG1 THR A  41     160.824 143.441 142.660  0.00  0.00    +0.000 OA
 ATOM    680  H   THR A  41     160.728 143.461 143.625  0.00  0.00    +0.000 HD
-REMARK  Name = /content/drive/MyDrive/Parkinson/fibril_CDE_fixed.pdb
+REMARK  Name = 
 REMARK  1079 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
 REMARK    1  A    between atoms: N_1  and  CA_2
@@ -3529,7 +3529,7 @@ ATOM    680  CB  THR B  39     110.847 133.523 145.157  0.00  0.00    +0.000 C
 ATOM    681  CG2 THR B  39     109.791 134.520 145.546  0.00  0.00    +0.000 C 
 ATOM    682  OG1 THR B  39     111.998 133.705 145.985  0.00  0.00    +0.000 OA
 ATOM    683  H   THR B  39     111.756 133.557 146.912  0.00  0.00    +0.000 HD
-REMARK  Name = /content/drive/MyDrive/Parkinson/fibril_CDE_fixed.pdb
+REMARK  Name = 
 REMARK  1079 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
 REMARK    1  A    between atoms: N_1  and  CA_2
