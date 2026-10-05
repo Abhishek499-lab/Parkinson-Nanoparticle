@@ -1,0 +1,51 @@
+HYBRID-H1 — GITHUB REPOSITORY MANIFEST
+====================================================================================================
+
+Repository: Hybrid-H1-GitHub
+Purpose: Selected computational files and documentation recovered from the original Hybrid-H1 project.
+
+FILE INVENTORY
+----------------------------------------------------------------------------------------------------
+.gitignore	317 bytes	SHA256=81f0cabcacd90348e09e7744f9d5b132e528a45fa36a57fded565090dd96228f
+CITATION.cff	799 bytes	SHA256=99f29f57e6894e96144d1571dd050cc4f259141a975653a9ee0959009a75e37a
+LICENSE	1087 bytes	SHA256=95aa4c5c9a2e1a7dfd1292f2d84e8f081f838272086315f90096bdd57c3c36f1
+README.md	9213 bytes	SHA256=1b16a1b219ab6ea6ba3810012e43baaa7a24049336052bc95b089d4fa678cd9c
+docking/P3.pdbqt	9563 bytes	SHA256=e4380656e0f1a85e9f2fc50ce96d85f76daaaf0f5e6a3db25b300e991f192520
+docking/config.txt	199 bytes	SHA256=147a6c7ea567494a45cae5d0ebe55fc9b80a71732935f01726556163e305878a
+docking/receptor_clean.pdbqt	337407 bytes	SHA256=9563cf95bffaa9de7adcf9dc6f406a7023597ce5a1f8437d9e9605b7f4d9e5b6
+md/scripts/backbone_rmsd.py	747 bytes	SHA256=7a1085100f53827c3b3cf237a6477bfb123990ef80dd2b0b097970d37181483f
+md/scripts/complex_rmsd.py	818 bytes	SHA256=28fc14e56ba546458259409a04f887926a5829042382d8c7a48bccf780be2ae7
+md/scripts/dna_rmsd.py	748 bytes	SHA256=06b76d70294f4aa5a195211e5afe43e591b5f5e02732ed0612b664ea6e448ff7
+md/scripts/env_bridge.py	582 bytes	SHA256=ab404cf2cd7cc0e12b0bb42e5c80e7901ced6a8e67ac8cf2b210606c3c6ba8d3
+md/scripts/equilibration.py	1911 bytes	SHA256=f37026cd1db4963994e08b40f110850261879aedd831d08d5eb542bd33a124aa
+md/scripts/heating.py	2004 bytes	SHA256=838e9a7ea0f72d6980ed96173ef478bd9d272249fcf30973bc902fee7e2e880f
+md/scripts/ligand_bridge.py	522 bytes	SHA256=30fa048abe27858f50431c778faf67c7780014688622dc720134d18abc73fe27
+md/scripts/minimize.py	1497 bytes	SHA256=2053e94060db9e2a5602d3fbe256cfa346462bb0df1904eee2a4059c98e993d4
+md/scripts/production.py	1836 bytes	SHA256=3f9854aea584973c18902713e63cc8933cc47fb9c8296803945a2d0a0a49e04a
+md/scripts/protein_dna_hbond.py	1008 bytes	SHA256=68e713dddd67139d366f42734b220f7047c2a077ec05241b3119e707c54ab247
+md/scripts/protein_rmsf.py	741 bytes	SHA256=c3f1f872417d8d56cf98b19166154bff7153098af1a3d97e721627f4de89744f
+md/scripts/protein_sasa.py	986 bytes	SHA256=950455f9fd1b61dd0b0e871e3e9269f063d7b9723493ef8e1c5893a7ca13cab4
+md/scripts/radius_gyration.py	829 bytes	SHA256=9c9a2830a798cc0adb2ec16946293b09de692e0ea176acd40a5ef820980d6eb8
+md/scripts/rmsd.py	426 bytes	SHA256=bf02ffa554b61533b32c6ac8651e3625f145a9ce9405b171b3076e24b64d86c0
+md/system/complex.inpcrd	211903 bytes	SHA256=f6780826d1110b11a26aee2cd968ac14f11024ce8fcdd4e40dca2f3c239c6b5e
+md/system/complex.prmtop	2566239 bytes	SHA256=09fb458f931402385b87a818aba2870c99c7fd11139cf74a0c012458ceb8fddc
+md/system/solvated.inpcrd	3296591 bytes	SHA256=8ee122ea861d29d3476f27cd16c70929852a619222109fdaa9ad58ce98f210ee
+md/system/solvated.prmtop	16029663 bytes	SHA256=9d0e1dc1725e58c4c19350418bc9721cd9c02a49988fc6536766ff8e6f75a822
+structures/1xq8.model.pdb	177552 bytes	SHA256=abf553222f8bcb9d29984c02def0dd47c6a768f05312fbf38f5dd9f66aa1e7f6
+structures/6XYO.pdb	523746 bytes	SHA256=6c4f43c30728a92520679d847d028749eaeb7881b21d33906b36eb79b06b435f
+structures/F5R2.pdb	146150 bytes	SHA256=adf8cb0efa773cd3e26908a46a9135bf1db7ba5cde814a8421da54b1ad47df6b
+structures/P3_fixed.pdb	9557 bytes	SHA256=4b28974dfcf10129500078152656b74481d4b80036e7be3c21b8d99072109676
+structures/V47_6XYO.pdb	565361 bytes	SHA256=7f2f6a9b95daf37d80103716786055cee423fff7bd14aa076a25ab0da65e331c
+structures/V47_G.pdb	145907 bytes	SHA256=7cb0ebd36b24313accaf49d640278a95ec81fc9187eecd4f78dc9ae9e040085e
+structures/V49_A.pdb	145907 bytes	SHA256=dbb497e941b3f1efe3ececd69e1d94d7e0e1612252bf8a391840c73e3f32d7fe
+structures/WT.pdb	146150 bytes	SHA256=adf8cb0efa773cd3e26908a46a9135bf1db7ba5cde814a8421da54b1ad47df6b
+structures/WT_6XYO.pdb	565562 bytes	SHA256=99995f1c37f3eab092d0f0b584d78a6409f101f54f63ac0538e20ea27c68d7a1
+
+SUMMARY
+----------------------------------------------------------------------------------------------------
+Files: 35
+Total repository size: 23.750 MB
+
+PROVENANCE NOTE
+----------------------------------------------------------------------------------------------------
+Where original executable code or final computational output was unavailable, available project structures, prepared files, parameters, scripts, and documented manuscript results were preserved without reconstructing undocumented calculations.
